@@ -38,8 +38,8 @@ Here are some of the projects I have worked on:
 Feel free to explore these projects to get an idea of my work.
 
 ## Contact Me
-- 📧 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+- 📧 You can reach me via email at [pranavgawas1999@gmail.com](mailto:pranavgawas1999@gmail.com).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranavgawas/).
 
 If you have any questions, want to collaborate on a project, or just want to say hi, don't hesitate to reach out. I'm always open to new opportunities and connections.
 
