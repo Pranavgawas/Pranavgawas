@@ -27,15 +27,11 @@ Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong 
 
 ## Projects
 Here are some of the projects I have worked on:
-1. **Project Name**: [Project 1](https://github.com/yourusername/project1)
+1. **Project Name**: [Vehicle Configurator](https://github.com/Pranavgawas/VehicleConfigurator)
    - Description: Brief description of the project.
    - Technologies Used: List the technologies you used in this project.
    
-2. **Project Name**: [Project 2](https://github.com/yourusername/project2)
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies you used in this project.
-
-3. **Project Name**: [Project 3](https://github.com/yourusername/project3)
+2. **Project Name**: [Pneumatic Sheet Metal Cutting Machine](https://github.com/yourusername/project2)
    - Description: Brief description of the project.
    - Technologies Used: List the technologies you used in this project.
 
