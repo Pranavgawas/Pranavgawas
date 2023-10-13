@@ -1,6 +1,6 @@
 # GitHub Readme for Pranav Gawas
 
-![GitHub Logo](https://lh3.googleusercontent.com/pw/ADCreHeSH45VUBT3lf3uzuARiDU6a_XbNjqHQ8jsHwGi-JKKNhvKKTB26MbGo6XfGvC9-FMyoFH67AMRvbX61ZLHvrS4Rpn_Irkddp3ZRr5bGOuejSrGWSLU6FNaVMfX0QVajw8j14VMvHXOy5FPbUiXXpOT=w1228-h308-s-no?authuser=0)
+![GitHub Logo](https://lh3.googleusercontent.com/pw/ADCreHcLFAqeJ94NXFcXkB1uPOfbML3nkUlA6U72SdGHl39LEub-k-SyY77fK4ZAjWI4SSShzSpNNIX565xPFEtvuiBkQaJu2XzZNsEt1Ar5x5wgXcnoWvPT9yD5Y_xd-Kzak2lvc0QRru-CXfNg1deLids3=w1584-h396-s-no?authuser=0)
 
 ![CDAC Graduate](https://img.shields.io/badge/CDAC-Graduate-blue?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-Expert-brightgreen?style=flat-square)
