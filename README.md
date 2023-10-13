@@ -1,5 +1,7 @@
 # GitHub Readme for Pranav Gawas
 
+![GitHub Logo](https://raw.githubusercontent.com/pranavgawas/pranavgawas/Black-Minimal-Motivation-Quote-LinkedIn-Banner.jpg)
+
 ![CDAC Graduate](https://img.shields.io/badge/CDAC-Graduate-blue?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-Expert-brightgreen?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-Advanced-blueviolet?style=flat-square)
