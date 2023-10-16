@@ -32,8 +32,9 @@ Here are some of the projects I have worked on:
 1. **Project Name**: [Vehicle Configurator](https://github.com/Pranavgawas/VehicleConfigurator)
    - Description: Brief description of the project.
    - Technologies Used: List the technologies you used in this project.
+   - to use this this project docker images go to this repo and pull it then if you have docker install on your pc/laptop use command docker-compose up
    
-2. **Project Name**: [Pneumatic Sheet Metal Cutting Machine](https://github.com/yourusername/project2)
+2. **Project Name**: [Pneumatic Sheet Metal Cutting Machine](https://github.com/Pranavgawas/pro)
    - Description: Brief description of the project.
    - Technologies Used: List the technologies you used in this project.
 
