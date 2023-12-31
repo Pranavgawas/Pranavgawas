@@ -33,13 +33,39 @@ Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong 
 ## Projects
 Here are some of the projects I have worked on:
 1. **Project Name**: [Vehicle Configurator](https://github.com/Pranavgawas/VehicleConfigurator)
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies you used in this project.
-   - to use this this project docker images go to this repo and pull it then if you have docker install on your pc/laptop use command docker-compose up
+   - Description: It is a B2B portal using Spring 6, Maven 3, Spring boot 3, REST API,
+MySQL 8, JPA, JUnit 4, JWT,MicroService,Docker,Web API Core, SQL
+Server, Entity Core, React Js designed for Car Leasing Company.
+Rental Car Companies will purchase the cars in lot and then provide
+those to their Customers.
+The website is completely database driven. It provides detailed
+specification about cars.
+It Allows a userto:
+– Select car models
+– modify the configurable items (interior and exterior; such as body
+color, seats, music system etc.)
+– Order customized cars
+Based on the configuration an invoice is generated in PDF and emailed
+to the client.
+The website is developed in multiple technologies using MicroServices
+and Docker.
+   - Technologies Used:  Node.js · React.js · ASP.NET Web API · Jakarta EE
+   - to use this this project docker images go to this repo and pull it then if you have docker install on your pc/laptop use "https://github.com/Pranavgawas/VehicleConfiguratorJavaDocker" command docker-compose up
    
 2. **Project Name**: [Pneumatic Sheet Metal Cutting Machine](https://github.com/Pranavgawas/pro)
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies you used in this project.
+   - Description: Designed and constructed a pneumatic sheet metal shearing machine
+capable of cutting .5mm to 1mm thick sheets very easily.
+he project involved setting up an air compressor, conditioning the
+airthrough a manifold and FRL unit, and providing a separate supply to the
+machine for independent operation.
+The machine utilized a Direction Control Valve to control the movement of
+a pneumatic double-acting cylinder, which was connected to a shearing
+blade through a connecting rod. The shearing blade, mounted on a base
+frame, generated enough force to easily cut the sheet metal.
+The project successfully demonstrated the working of the machine by
+activating the air compressor, controlling the piston movement, and cutting
+sheet metal with precision.
+   - Technologies Used: Fusion 360
 
 Feel free to explore these projects to get an idea of my work.
 
