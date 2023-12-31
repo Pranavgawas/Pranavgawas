@@ -5,11 +5,13 @@
 ![CDAC Graduate](https://img.shields.io/badge/CDAC-Graduate-blue?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-Expert-brightgreen?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-Advanced-blueviolet?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square)
-![React](https://img.shields.io/badge/React-Intermediate-blue?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue?style=flat-square)
+
 
 Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong foundation in various programming technologies. Below, you'll find information about my skills, projects, and how to reach out to me.
 
