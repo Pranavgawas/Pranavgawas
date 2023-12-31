@@ -14,7 +14,7 @@
 Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong foundation in various programming technologies. Below, you'll find information about my skills, projects, and how to reach out to me.
 
 ## My Portfolio Link:
-![pranavgawas.com](https://lnkd.in/dywDGbM5 )
+[pranavgawas.com](https://lnkd.in/dywDGbM5 )
 
 ## About Me
 - 🎓 I am a recent graduate of CDAC (Centre for Development of Advanced Computing).
