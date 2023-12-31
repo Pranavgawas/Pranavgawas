@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong 
 ## About Me
 - 🎓 I am a recent graduate of CDAC (Centre for Development of Advanced Computing).
 - 💼 I have gained knowledge and experience in several programming languages and technologies, including Java, C#, JavaScript, HTML, CSS, Node.js, and React.
-- 🌱 I am passionate about software development and always eager to learn new things and take on challenging projects.
+- 🌱 I am passionate about Full stack developer and always eager to learn new things and take on challenging projects.
 
 ## Skills
 - 💻 **Java**: I am proficient in Java and have experience in developing Java applications.
