@@ -1,80 +1,144 @@
-# GitHub Readme for Pranav Gawas
+<div align="center">
 
-![GitHub Logo](https://lh3.googleusercontent.com/pw/ADCreHcLFAqeJ94NXFcXkB1uPOfbML3nkUlA6U72SdGHl39LEub-k-SyY77fK4ZAjWI4SSShzSpNNIX565xPFEtvuiBkQaJu2XzZNsEt1Ar5x5wgXcnoWvPT9yD5Y_xd-Kzak2lvc0QRru-CXfNg1deLids3=w1584-h396-s-no?authuser=0)
+# Hi, I'm Pranav Gawas 👋
 
-![CDAC Graduate](https://img.shields.io/badge/CDAC-Graduate-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-Expert-brightgreen?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-Advanced-blueviolet?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue?style=flat-square)
+### Full Stack Developer · Java · .NET · React
 
+Building production-grade web apps with a multi-stack mindset.
 
-Welcome to my GitHub profile! 👋 I am a recent graduate of CDAC with a strong foundation in various programming technologies. Below, you'll find information about my skills, projects, and how to reach out to me.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-rouge-97.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgawas/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavgawas1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91--9284630996-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919284630996)
 
-## My Portfolio Link:
-[pranavgawas.com](https://lnkd.in/dywDGbM5 )
+</div>
 
-## About Me
-- 🎓 I am a recent graduate of CDAC (Centre for Development of Advanced Computing).
-- 💼 I have gained knowledge and experience in several programming languages and technologies, including Java, C#, JavaScript, HTML, CSS, Node.js, and React.
-- 🌱 I am passionate about Full stack developer and always eager to learn new things and take on challenging projects.
+---
 
-## Skills
-- 💻 **Java**: I am proficient in Java and have experience in developing Java applications.
-- 💻 **C#**: I have an advanced understanding of C# and have worked on various .NET projects.
-- 💻 **JavaScript**: I am skilled in JavaScript and have developed web applications using JavaScript.
-- 💻 **HTML/CSS**: I have experience in building and styling web pages using HTML and CSS.
-- 💻 **Node.js**: I am familiar with Node.js and have built server-side applications using it.
-- 💻 **React**: I have worked with React to develop dynamic and responsive web interfaces.
-- 📚 **Other Technologies**: I am open to exploring and learning new technologies to expand my skill set.
+## 🚀 About Me
 
-## Projects
-Here are some of the projects I have worked on:
-1. **Project Name**: [Vehicle Configurator](https://github.com/Pranavgawas/VehicleConfigurator)
-   - Description: It is a B2B portal using Spring 6, Maven 3, Spring boot 3, REST API,
-MySQL 8, JPA, JUnit 4, JWT,MicroService,Docker,Web API Core, SQL
-Server, Entity Core, React Js designed for Car Leasing Company.
-Rental Car Companies will purchase the cars in lot and then provide
-those to their Customers.
-The website is completely database driven. It provides detailed
-specification about cars.
-It Allows a userto:
-– Select car models
-– modify the configurable items (interior and exterior; such as body
-color, seats, music system etc.)
-– Order customized cars
-Based on the configuration an invoice is generated in PDF and emailed
-to the client.
-The website is developed in multiple technologies using MicroServices
-and Docker.
-   - Technologies Used:  Node.js · React.js · ASP.NET Web API · Jakarta EE
-   - to use this this project docker images go to this repo and pull it then if you have docker install on your pc/laptop use "https://github.com/Pranavgawas/VehicleConfiguratorJavaDocker" command docker-compose up
-   
-2. **Project Name**: [Pneumatic Sheet Metal Cutting Machine](https://github.com/Pranavgawas/pro)
-   - Description: Designed and constructed a pneumatic sheet metal shearing machine
-capable of cutting .5mm to 1mm thick sheets very easily.
-he project involved setting up an air compressor, conditioning the
-airthrough a manifold and FRL unit, and providing a separate supply to the
-machine for independent operation.
-The machine utilized a Direction Control Valve to control the movement of
-a pneumatic double-acting cylinder, which was connected to a shearing
-blade through a connecting rod. The shearing blade, mounted on a base
-frame, generated enough force to easily cut the sheet metal.
-The project successfully demonstrated the working of the machine by
-activating the air compressor, controlling the piston movement, and cutting
-sheet metal with precision.
-   - Technologies Used: Fusion 360
+- 💼 **Full Stack Developer at [WoNo.co](https://github.com/Pranavgawas)** — currently building **Nomads (WONO)**, a coworking & coliving marketplace, on the MERN stack (MongoDB · Express.js · React · Node.js).
+- 🎓 **PG-DAC Graduate** from **C-DAC Sunbeam VITA, Mumbai** — a 6-month intensive Post Graduate Diploma in Advanced Computing covering Java/J2EE, Spring & Hibernate, modern web development, database technologies, and software engineering fundamentals.
+- 🛠️ Built a B2B Vehicle Configurator portal at C-DAC using **Java Spring Boot 3, ASP.NET Core, microservices, Docker, JWT, MySQL, SQL Server, and React** — same project, three production-grade stacks.
+- 🎯 Strong believer in writing clean, scalable, production-ready code and shipping things that work.
+- 🧰 Started as a Mechanical Engineer — the analytical and systems-thinking mindset stuck with me, and now I apply it to software architecture.
 
-Feel free to explore these projects to get an idea of my work.
+---
 
-## Contact Me
-- 📧 You can reach me via email at [pranavgawas1999@gmail.com](mailto:pranavgawas1999@gmail.com).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranavgawas/).
+## 🛠️ Tech Stack
 
-If you have any questions, want to collaborate on a project, or just want to say hi, don't hesitate to reach out. I'm always open to new opportunities and connections.
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Thank you for visiting my GitHub profile! 🚀
+**Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools & Architecture**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+### 🚗 1. Vehicle Configurator — B2B Car Leasing Portal
+> One product idea, **three production-grade stacks**. A full B2B portal for rental car companies to bulk-purchase, configure, customize, and invoice vehicles — built end-to-end as my C-DAC capstone.
+
+<table>
+  <tr>
+    <th>Stack</th>
+    <th>Repository</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td>🟢 <b>React (Frontend)</b></td>
+    <td><a href="https://github.com/Pranavgawas/VehicleConfigurator-react">VehicleConfigurator-react</a></td>
+    <td>Vite + React, live on GitHub Pages</td>
+  </tr>
+  <tr>
+    <td>☕ <b>Java Spring Boot 3 (Backend)</b></td>
+    <td><a href="https://github.com/Pranavgawas/VehicleConfigurator-java">VehicleConfigurator-java</a></td>
+    <td>JPA · MySQL · Maven · JUnit</td>
+  </tr>
+  <tr>
+    <td>🔷 <b>.NET Core (Microservice)</b></td>
+    <td><a href="https://github.com/Pranavgawas/VehicleConfigurator-dotnet">VehicleConfigurator-dotnet</a></td>
+    <td>Entity Framework · SQL Server · Web API</td>
+  </tr>
+</table>
+
+**What it does:** Rental companies browse vehicle models, modify configurable items (interior, exterior, body color, seats, music system), place bulk orders, and receive an auto-generated **PDF invoice** — all wrapped in a **microservices architecture with Docker**.
+
+🔗 **Live:** [pranavgawas.github.io/VehicleConfigurator-react](https://pranavgawas.github.io/VehicleConfigurator-react/)
+
+---
+
+### 🏢 2. Employee Management System
+> Full-stack employee records platform with secure auth, serverless backend, and real-time data — migrated from Express to Firebase Cloud Functions.
+
+- 🔗 **Live:** [employee-detail-management.web.app](https://employee-detail-management.web.app)
+- 📦 **Repo:** [Pranavgawas/Employee-Management-System](https://github.com/Pranavgawas/Employee-Management-System)
+
+**Stack:** React + Vite · React Router · React Bootstrap · Firebase Cloud Functions · Firestore
+**Highlights:** Full CRUD · Serverless migration (Express → Firebase Functions) · Auth · Real-time data · Production deployment
+
+---
+
+### 🎓 3. CertifyMe — Certificate Generator
+> Polished React app that turns a few form fields into a downloadable, customized **certificate — both as an image and a PDF** — in seconds.
+
+- 🔗 **Live:** [certify-me-liart.vercel.app](https://certify-me-liart.vercel.app)
+- 📦 **Repo:** [Pranavgawas/CertifyMe](https://github.com/Pranavgawas/CertifyMe)
+
+**Stack:** React + Vite · Tailwind + DaisyUI · React Router
+**Highlights:** Custom certificate builder · Image + PDF export · Animated gradient UI · Responsive design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranavgawas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgawas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavgawas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting opportunities, collaborations, or just a tech chat.
+
+- 🌐 **Portfolio:** [portfolio-three-rouge-97.vercel.app](https://portfolio-three-rouge-97.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/pranavgawas](https://www.linkedin.com/in/pranavgawas/)
+- 📧 **Email:** [pranavgawas1999@gmail.com](mailto:pranavgawas1999@gmail.com)
+- 📱 **Phone:** [+91 9284630996](tel:+919284630996)
+- 🐙 **GitHub:** [github.com/Pranavgawas](https://github.com/Pranavgawas)
+
+<sub>⚡ Fun fact: I went from designing sheet-metal cutting machines to designing REST APIs — both involve pressure, tolerance, and precise cuts. 😄</sub>
