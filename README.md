@@ -11,6 +11,8 @@ Building production-grade web apps with a multi-stack mindset.
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavgawas1999@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91--9284630996-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919284630996)
 
+![Profile views](https://komarev.com/ghpvc/?username=Pranavgawas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
