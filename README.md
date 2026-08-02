@@ -35,6 +35,20 @@
 
 ---
 
+### 🐍 Interactive Contribution Grid & Commit Visual
+
+<div align="center">
+  <p><b>Live Commit Activity Grid (Sun – Sat · Jan – Dec)</b></p>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavgawas/Pranavgawas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavgawas/Pranavgawas/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Pranavgawas/Pranavgawas/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ### 🎠 About Me
 
 - 💼 **Full Stack Developer at [WoNo.co](https://github.com/Pranavgawas)** — Building **Nomads (WONO)**, a digital nomad coworking & coliving marketplace powered by the **MERN stack** (MongoDB, Express.js, React, Node.js).
@@ -138,7 +152,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavgawas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavgawas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
